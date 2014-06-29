@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/288/trunk/Plugins/diff/textdiff/Diff/Engine
+END
+xdiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/288/trunk/Plugins/diff/textdiff/Diff/Engine/xdiff.php
+END
+native.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/288/trunk/Plugins/diff/textdiff/Diff/Engine/native.php
+END
+string.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/288/trunk/Plugins/diff/textdiff/Diff/Engine/string.php
+END
+shell.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/288/trunk/Plugins/diff/textdiff/Diff/Engine/shell.php
+END

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/330/trunk/Plugins
+END
+rped.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/226/trunk/Plugins/rped.php
+END
+apisvgproxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/70/trunk/Plugins/apisvgproxy.php
+END
+flaggedrevisions.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/215/trunk/Plugins/flaggedrevisions.php
+END
+extended.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/263/trunk/Plugins/extended.php
+END
+olddatabase.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/238/trunk/Plugins/olddatabase.php
+END
+geoip.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/70/trunk/Plugins/geoip.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/330/trunk/Plugins/database.php
+END
+abusefilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/217/trunk/Plugins/abusefilter.php
+END
+mwreleases.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/326/trunk/Plugins/mwreleases.php
+END
+diff.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/329/trunk/Plugins/diff.php
+END
+globalblocking.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/91/trunk/Plugins/globalblocking.php
+END
+globaluserinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/218/trunk/Plugins/globaluserinfo.php
+END
+checkuser.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/215/trunk/Plugins/checkuser.php
+END
+firefogg.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/trunk/Plugins/firefogg.php
+END
+sitematrix.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/132/trunk/Plugins/sitematrix.php
+END
+imagemodify.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/268/trunk/Plugins/imagemodify.php
+END
+xmlparse.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/267/trunk/Plugins/xmlparse.php
+END
+codereview.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/228/trunk/Plugins/codereview.php
+END
+xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/299/trunk/Plugins/xml.php
+END
+yaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/296/trunk/Plugins/yaml.php
+END
+cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/254/trunk/Plugins/cli.php
+END
+rfa.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/299/trunk/Plugins/rfa.php
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/296/trunk/Plugins/template.php
+END
+page.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/317/trunk/Plugins/page.php
+END
+irc.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/231/trunk/Plugins/irc.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/325/trunk/Plugins/user.php
+END
+configure.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/trunk/Plugins/configure.php
+END
+image.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/299/trunk/Plugins/image.php
+END
+page_object_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/70/trunk/Plugins/page_object_model.php
+END
+webrequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/270/trunk/Plugins/webrequest.php
+END
+filelogging.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/139/trunk/Plugins/filelogging.php
+END
+opensearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/217/trunk/Plugins/opensearch.php
+END
+email.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/215/trunk/Plugins/email.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/309/trunk/Plugins/yaml
+END
+sfYamlInline.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/309/trunk/Plugins/yaml/sfYamlInline.php
+END
+sfYaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/309/trunk/Plugins/yaml/sfYaml.php
+END
+sfYamlParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/309/trunk/Plugins/yaml/sfYamlParser.php
+END
+sfYamlDumper.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/309/trunk/Plugins/yaml/sfYamlDumper.php
+END

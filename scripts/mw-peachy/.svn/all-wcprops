@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/330/trunk
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/293/trunk/test.php
+END
+HTTP.php
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/318/trunk/HTTP.php
+END
+RELEASE-NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/322/trunk/RELEASE-NOTES
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/141/trunk/INSTALL
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/141/trunk/FAQ
+END
+OldImage.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/268/trunk/OldImage.php
+END
+SAMPLE.php
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/249/trunk/SAMPLE.php
+END
+GenFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/314/trunk/GenFunctions.php
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/141/trunk/COPYING
+END
+Init.php
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/330/trunk/Init.php
+END
+Script.php
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/299/trunk/Script.php
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/330/trunk/CREDITS
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/309/trunk/Includes/Tests/PluginTests
+END
+TemplateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/309/trunk/Includes/Tests/PluginTests/TemplateTest.php
+END
+TestsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/309/trunk/Includes/Tests/PluginTests/TestsTest.php
+END
+YamlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/309/trunk/Includes/Tests/PluginTests/YamlTest.php
+END
+DiffTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/309/trunk/Includes/Tests/PluginTests/DiffTest.php
+END

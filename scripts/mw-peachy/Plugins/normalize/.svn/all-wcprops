@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/265/trunk/Plugins/normalize
+END
+UtfChars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/265/trunk/Plugins/normalize/UtfChars.inc
+END
+UtfNormalUtil.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/263/trunk/Plugins/normalize/UtfNormalUtil.php
+END
+UtfNormalDefines.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/263/trunk/Plugins/normalize/UtfNormalDefines.php
+END
+UtfNormal.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/263/trunk/Plugins/normalize/UtfNormal.php
+END

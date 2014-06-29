@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/311/trunk/Includes/Tests
+END
+GenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/301/trunk/Includes/Tests/GenTest.php
+END
+PageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/311/trunk/Includes/Tests/PageTest.php
+END
+UserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/301/trunk/Includes/Tests/UserTest.php
+END
+ImageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/trunk/Includes/Tests/ImageTest.php
+END
+WikiTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/301/trunk/Includes/Tests/WikiTest.php
+END
+MainTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/301/trunk/Includes/Tests/MainTest.php
+END

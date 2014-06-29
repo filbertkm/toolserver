@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/327/trunk/Plugins/diff/textdiff/Diff
+END
+Mapped.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/288/trunk/Plugins/diff/textdiff/Diff/Mapped.php
+END
+Renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/288/trunk/Plugins/diff/textdiff/Diff/Renderer.php
+END
+ThreeWay.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/288/trunk/Plugins/diff/textdiff/Diff/ThreeWay.php
+END
